@@ -3,7 +3,7 @@
 **Core Engineering Lead:** Ambreen Khan  
 **Roll Number:** 021012611019
 **Course Name:** Artificial Intelligence (M-PHIL)  
-**Hosted Digital App URL:** [PASTE AMBREEN'S LIVE STREAMLIT APP LINK HERE]
+**Hosted Digital App URL:** https://applied-ai-project1-churn-c238cuvlwtunqvelxl98wa.streamlit.app/
 
 ---
 
