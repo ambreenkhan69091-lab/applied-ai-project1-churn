@@ -7,14 +7,14 @@
 
 ---
 
-### 🗂️ PHASE 1 ARCHITECTURE: RECOVERY, INGESTION & PIPELINE TRACING
+###  Week-1 ARCHITECTURE: RECOVERY, INGESTION & PIPELINE TRACING
 
 #### Operational Framework Profiles
 * **Foundation Matrix Population:** 7,043 client transaction records across 21 input vectors.
 * **Target Objective Element:** Class binary label tracking customer departure.
 * **Imbalance Disparity Index:** 26.54% true signal distribution base.
 
-#### Phase 1 Engineering Takeaways
+#### Week-2 Engineering Takeaways
 - **Contract Duration Friction:** Account profiles running on short-term rolling cycles show rapid decay, identifying them as a primary source of operational revenue loss.
 - **Premium Infrastructure Paradox:** High-speed Fiber Optic lines show higher risk scores than traditional copper setups. This points to billing pain points or connection instability shortly after installation.
 - **Clearing Pipeline Vulnerabilities:** Manual paper check clearing methods show elevated user drop-off velocities compared to automated bank routing profiles.
@@ -22,7 +22,7 @@
 
 ---
 
-### ⚙️ PHASE 2 ARCHITECTURE: EVALUATION MATRIX & OPERATIONAL COST TUNING
+###  EVALUATION MATRIX & OPERATIONAL COST TUNING
 
 #### Out-of-Fold Performance Blueprints (Test Split Independent Verification)
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 👥 PHASE 3 ARCHITECTURE: BEHAVIORAL COHORTS & DECOMPOSITION
+### Week-3 ARCHITECTURE: BEHAVIORAL COHORTS & DECOMPOSITION
 
 #### Customer Behavior Strata (k=4 K-Means Grouping Engine)
 - **Strata Node 0 (The Volatile High-Value Group):** Early-stage accounts (~18.4 months avg. lifetime) dealing with premium high-tier bills (~\$80.41/mo). Displays an aggressive 43.0% churn concentration, identifying the main target for proactive retention efforts.
@@ -59,6 +59,6 @@
 
 ---
 
-### 🛡️ PHASE 4 ARCHITECTURE: STREAMLIT SERVICE WEB APP
-
+### 🛡️ Week-4 : STREAMLIT SERVICE WEB APP
+**Hosted Digital App URL:** https://applied-ai-project1-churn-c238cuvlwtunqvelxl98wa.streamlit.app/
 - Re-engineered the serialized pipeline binaries into a clean, responsive web interface via Streamlit. The system includes an automated What-If Optimization Matrix for individual profiles and a batch upload portal for bulk spreadsheet processing.
