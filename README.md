@@ -1,8 +1,9 @@
 # Blueprint Specification: Subscriber Attrition Intelligence System (SAIS)
 
 **Core Engineering Lead:** Ambreen Khan  
-**Course Framework:** Applied Machine Learning Systems (BS 8th Semester)  
-**Hosted Digital Endpoint:** [PASTE AMBREEN'S LIVE STREAMLIT APP LINK HERE]
+**Roll Number:** 021012611019
+**Course Framework:** Applied Machine Learning Systems (M-PHIL)  
+**Hosted Digital App URL:** [PASTE AMBREEN'S LIVE STREAMLIT APP LINK HERE]
 
 ---
 
