@@ -1,4 +1,4 @@
-# Blueprint Specification: Subscriber Attrition Intelligence System (SAIS)
+# Subscriber Attrition Intelligence System (SAIS)
 
 **Core Engineering Lead:** Ambreen Khan  
 **Roll Number:** 021012611019
